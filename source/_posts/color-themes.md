@@ -4,7 +4,7 @@ tags: themes
 categories: Docs
 description: "A list of all the official color themes."
 shadow: true
-feature: /images/color-themes/color-themes.png
+feature: images/color-themes/color-themes.png
 toc: true
 ---
 
@@ -29,13 +29,13 @@ User contributions are welcome! If you want to contribute a color theme, you can
 
 ### inverse ###
 
-![bootstrap-inverse](../images/color-themes/bootstrap-inverse.png)
+![bootstrap-inverse](images/color-themes/bootstrap-inverse.png)
 
 ## cerulean ##
 
 ### default ###
 
-![cerulean](../images/color-themes/cerulean.png)
+![cerulean](images/color-themes/cerulean.png)
 
 ### inverse ###
 
