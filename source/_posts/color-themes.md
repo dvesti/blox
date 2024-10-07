@@ -25,7 +25,7 @@ User contributions are welcome! If you want to contribute a color theme, you can
 
 ### default ###
 
-![bootstrap](../images/color-themes/bootstrap.png)
+![bootstrap](/images/color-themes/bootstrap.png)
 
 ### inverse ###
 
