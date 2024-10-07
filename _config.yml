@@ -102,3 +102,6 @@ theme: freemind #landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  
+module.imports:
+    path = "github.com/wzpan/hexo-theme-freemind"  
