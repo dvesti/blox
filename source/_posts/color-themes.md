@@ -4,7 +4,7 @@ tags: themes
 categories: Docs
 description: "A list of all the official color themes."
 shadow: true
-feature: images/color-themes/color-themes1.png
+feature: images/color-themes/color-themes.png
 toc: true
 ---
 
