@@ -4,7 +4,7 @@ date: 2016-03-16 10:23:40
 tags:
   - Cpp
   - 随笔
-feature: /assets/images/features/cpp_primer_plus.jpg
+feature: images/2016-03-16-C-Primer-Plus-6th-complete/cpp_primer_plus.jpg
 ---
 终于把《C++ Primer Plus 6th》看完啦，课后习题全部敲玩，算是一只脚踩进了C++的大坑里.
 
@@ -14,4 +14,4 @@ feature: /assets/images/features/cpp_primer_plus.jpg
 KMCLib，先让我摸透你然后再搞定了你！
 
 <!-- more -->
-![](assets/images/blog_img/2016-03-16-C-Primer-Plus-6th-complete/cpp_primer_plus.jpg)
+![](/images/2016-03-16-C-Primer-Plus-6th-complete/cpp_primer_plus_fe.jpg)
