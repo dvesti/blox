@@ -106,5 +106,5 @@ deploy:
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
   
-module.imports:
-    path = "github.com/wzpan/hexo-theme-freemind"  
+#module.imports:
+#    path = "github.com/wzpan/hexo-theme-freemind"  
