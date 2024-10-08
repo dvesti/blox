@@ -25,168 +25,168 @@ User contributions are welcome! If you want to contribute a color theme, you can
 
 ### default ###
 
-![bootstrap](https://bloxeh.netlify.app/images/color-themes/bootstrap.png)
+![bootstrap](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/bootstrap.png)
 
 ### inverse ###
 
-![bootstrap-inverse](/images/color-themes/bootstrap-inverse.png)
+![bootstrap-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/bootstrap-inverse.png)
 
 ## cerulean ##
 
 ### default ###
 
-![cerulean](/images/color-themes/cerulean.png)
+![cerulean](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/cerulean.png)
 
 ### inverse ###
 
-![cerulean-inverse](/images/color-themes/cerulean-inverse.png)
+![cerulean-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/cerulean-inverse.png)
 
 ## cosmo ##
 
 ### default ###
 
-![cosmo](/images/color-themes/cosmo.png)
+![cosmo](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/cosmo.png)
 
 ### inverse ###
 
-![cosmo-inverse](/images/color-themes/cosmo-inverse.png)
+![cosmo-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/cosmo-inverse.png)
 
 ## cyborg ##
 
 ### default ###
 
-![cyborg](/images/color-themes/cyborg.png)
+![cyborg](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/cyborg.png)
 
 ### inverse ###
 
-![cyborg-inverse](/images/color-themes/cyborg-inverse.png)
+![cyborg-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/cyborg-inverse.png)
 
 ## darkly ##
 
 ### default ###
 
-![darkly](/images/color-themes/darkly.png)
+![darkly](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/darkly.png)
 
 ### inverse ###
 
-![darkly-inverse](/images/color-themes/darkly-inverse.png)
+![darkly-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/darkly-inverse.png)
 
 ## flatly ##
 
 ### default ###
 
-![flatly](/images/color-themes/flatly.png)
+![flatly](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/flatly.png)
 
 ### inverse ###
 
-![flatly](/images/color-themes/flatly-inverse.png)
+![flatly](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/flatly-inverse.png)
 
 ## journal ##
 
 ### default ###
 
-![journal](/images/color-themes/journal.png)
+![journal](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/journal.png)
 
 ### inverse ###
 
-![journal-inverse](/images/color-themes/journal-inverse.png)
+![journal-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/journal-inverse.png)
 
 ## lumen ##
 
 ### default ###
 
-![lumen](/images/color-themes/lumen.png)
+![lumen](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/lumen.png)
 
 ### inverse ###
 
-![lumen-inverse](/images/color-themes/lumen-inverse.png)
+![lumen-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/lumen-inverse.png)
 
 ## paper ##
 
 ### default ###
 
-![paper](/images/color-themes/paper.png)
+![paper](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/paper.png)
 
 ### inverse ###
 
-![paper-inverse](/images/color-themes/paper-inverse.png)
+![paper-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/paper-inverse.png)
 
 ## readable ##
 
 ### default ###
 
-![readable](/images/color-themes/readable.png)
+![readable](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/readable.png)
 
 ### inverse ###
 
-![readable-inverse](/images/color-themes/readable-inverse.png)
+![readable-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/readable-inverse.png)
 
 ## sandstone ##
 
 ### default ###
 
-![sandstone](/images/color-themes/sandstone.png)
+![sandstone](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/sandstone.png)
 
 ### inverse ###
 
-![sandstone-inverse](/images/color-themes/sandstone-inverse.png)
+![sandstone-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/sandstone-inverse.png)
 
 ## simplex ##
 
 ### default ###
 
-![simplex](/images/color-themes/simplex.png)
+![simplex](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/simplex.png)
 
 ### inverse ###
 
-![simplex-inverse](/images/color-themes/simplex-inverse.png)
+![simplex-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/simplex-inverse.png)
 
 ## slate ##
 
 ### default ###
 
-![slate](/images/color-themes/slate.png)
+![slate](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/slate.png)
 
 ### inverse ###
 
-![slate-inverse](/images/color-themes/slate-inverse.png)
+![slate-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/slate-inverse.png)
 
 ## spacelab ##
 
 ### default ###
 
-![spacelab](/images/color-themes/spacelab.png)
+![spacelab](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/spacelab.png)
 
 ### inverse ###
 
-![spacelab-inverse](/images/color-themes/spacelab-inverse.png)
+![spacelab-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/spacelab-inverse.png)
 
 ## superhero ##
 
 ### default ###
 
-![superhero](/images/color-themes/superhero.png)
+![superhero](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/superhero.png)
 
 ### inverse ###
 
-![superhero-inverse](/images/color-themes/superhero-inverse.png)
+![superhero-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/superhero-inverse.png)
 
 ## united ##
 
 ### default ###
 
-![united](/images/color-themes/united.png)
+![united](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/united.png)
 
 ### inverse ###
 
-![united-inverse](/images/color-themes/united-inverse.png)
+![united-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/united-inverse.png)
 
 ## yeti ##
 
 ### default ###
 
-![yeti](/images/color-themes/yeti.png)
+![yeti](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/yeti.png)
 
 ### inverse ###
-![yeti-inverse](/images/color-themes/yeti-inverse.png)
+![yeti-inverse](https://www.hahack.com/hexo-theme-freemind-blog/images/color-themes/yeti-inverse.png)
 
