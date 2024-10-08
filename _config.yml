@@ -107,4 +107,4 @@ deploy:
   branch: gh-pages
   
 module.imports:
-    path = "github.com/wzpan/hexo-theme-freemind"  
+  path = "github.com/wzpan/hexo-theme-freemind"  
