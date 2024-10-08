@@ -98,6 +98,12 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: freemind #landscape
 
+deploy:
+  type: git
+  repo: https://github.com/dvesti/blox # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: [main]
+  message: [Привет! Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 #deploy:
