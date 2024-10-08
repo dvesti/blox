@@ -2,17 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-
-# Generated files by hexo
-/public/
-
+public/
 .DS_Store
 Thumbs.db
-
 /node_modules/
-
 /R/
-
-
-
 blox.Rproj
