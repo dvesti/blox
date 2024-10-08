@@ -5,6 +5,11 @@
 public/
 .DS_Store
 Thumbs.db
-/node_modules/
-/R/
+node_modules/
+R/
 blox.Rproj
+db.json
+*.log
+.deploy*/
+tmp/
+
