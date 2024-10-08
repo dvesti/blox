@@ -4,12 +4,12 @@
 .Ruserdata
 
 # Generated files by hexo
-public/
+/public/
 
 .DS_Store
 Thumbs.db
 
-yarn.lock
+
 
 /R/
 
