@@ -25,168 +25,168 @@ User contributions are welcome! If you want to contribute a color theme, you can
 
 ### default ###
 
-![bootstrap](images/color-themes/bootstrap.png)
+![bootstrap](/images/color-themes/bootstrap.png)
 
 ### inverse ###
 
-![bootstrap-inverse](images/color-themes/bootstrap-inverse.png)
+![bootstrap-inverse](/images/color-themes/bootstrap-inverse.png)
 
 ## cerulean ##
 
 ### default ###
 
-![cerulean](images/color-themes/cerulean.png)
+![cerulean](/images/color-themes/cerulean.png)
 
 ### inverse ###
 
-![cerulean-inverse](../images/color-themes/cerulean-inverse.png)
+![cerulean-inverse](/images/color-themes/cerulean-inverse.png)
 
 ## cosmo ##
 
 ### default ###
 
-![cosmo](../images/color-themes/cosmo.png)
+![cosmo](/images/color-themes/cosmo.png)
 
 ### inverse ###
 
-![cosmo-inverse](../images/color-themes/cosmo-inverse.png)
+![cosmo-inverse](/images/color-themes/cosmo-inverse.png)
 
 ## cyborg ##
 
 ### default ###
 
-![cyborg](../images/color-themes/cyborg.png)
+![cyborg](/images/color-themes/cyborg.png)
 
 ### inverse ###
 
-![cyborg-inverse](../images/color-themes/cyborg-inverse.png)
+![cyborg-inverse](/images/color-themes/cyborg-inverse.png)
 
 ## darkly ##
 
 ### default ###
 
-![darkly](../images/color-themes/darkly.png)
+![darkly](/images/color-themes/darkly.png)
 
 ### inverse ###
 
-![darkly-inverse](../images/color-themes/darkly-inverse.png)
+![darkly-inverse](/images/color-themes/darkly-inverse.png)
 
 ## flatly ##
 
 ### default ###
 
-![flatly](../images/color-themes/flatly.png)
+![flatly](/images/color-themes/flatly.png)
 
 ### inverse ###
 
-![flatly](../images/color-themes/flatly-inverse.png)
+![flatly](/images/color-themes/flatly-inverse.png)
 
 ## journal ##
 
 ### default ###
 
-![journal](../images/color-themes/journal.png)
+![journal](/images/color-themes/journal.png)
 
 ### inverse ###
 
-![journal-inverse](../images/color-themes/journal-inverse.png)
+![journal-inverse](/images/color-themes/journal-inverse.png)
 
 ## lumen ##
 
 ### default ###
 
-![lumen](../images/color-themes/lumen.png)
+![lumen](/images/color-themes/lumen.png)
 
 ### inverse ###
 
-![lumen-inverse](../images/color-themes/lumen-inverse.png)
+![lumen-inverse](/images/color-themes/lumen-inverse.png)
 
 ## paper ##
 
 ### default ###
 
-![paper](../images/color-themes/paper.png)
+![paper](/images/color-themes/paper.png)
 
 ### inverse ###
 
-![paper-inverse](../images/color-themes/paper-inverse.png)
+![paper-inverse](/images/color-themes/paper-inverse.png)
 
 ## readable ##
 
 ### default ###
 
-![readable](../images/color-themes/readable.png)
+![readable](/images/color-themes/readable.png)
 
 ### inverse ###
 
-![readable-inverse](../images/color-themes/readable-inverse.png)
+![readable-inverse](/images/color-themes/readable-inverse.png)
 
 ## sandstone ##
 
 ### default ###
 
-![sandstone](../images/color-themes/sandstone.png)
+![sandstone](/images/color-themes/sandstone.png)
 
 ### inverse ###
 
-![sandstone-inverse](../images/color-themes/sandstone-inverse.png)
+![sandstone-inverse](/images/color-themes/sandstone-inverse.png)
 
 ## simplex ##
 
 ### default ###
 
-![simplex](../images/color-themes/simplex.png)
+![simplex](/images/color-themes/simplex.png)
 
 ### inverse ###
 
-![simplex-inverse](../images/color-themes/simplex-inverse.png)
+![simplex-inverse](/images/color-themes/simplex-inverse.png)
 
 ## slate ##
 
 ### default ###
 
-![slate](../images/color-themes/slate.png)
+![slate](/images/color-themes/slate.png)
 
 ### inverse ###
 
-![slate-inverse](../images/color-themes/slate-inverse.png)
+![slate-inverse](/images/color-themes/slate-inverse.png)
 
 ## spacelab ##
 
 ### default ###
 
-![spacelab](../images/color-themes/spacelab.png)
+![spacelab](/images/color-themes/spacelab.png)
 
 ### inverse ###
 
-![spacelab-inverse](../images/color-themes/spacelab-inverse.png)
+![spacelab-inverse](/images/color-themes/spacelab-inverse.png)
 
 ## superhero ##
 
 ### default ###
 
-![superhero](../images/color-themes/superhero.png)
+![superhero](/images/color-themes/superhero.png)
 
 ### inverse ###
 
-![superhero-inverse](../images/color-themes/superhero-inverse.png)
+![superhero-inverse](/images/color-themes/superhero-inverse.png)
 
 ## united ##
 
 ### default ###
 
-![united](../images/color-themes/united.png)
+![united](/images/color-themes/united.png)
 
 ### inverse ###
 
-![united-inverse](../images/color-themes/united-inverse.png)
+![united-inverse](/images/color-themes/united-inverse.png)
 
 ## yeti ##
 
 ### default ###
 
-![yeti](../images/color-themes/yeti.png)
+![yeti](/images/color-themes/yeti.png)
 
 ### inverse ###
-![yeti-inverse](../images/color-themes/yeti-inverse.png)
+![yeti-inverse](/images/color-themes/yeti-inverse.png)
 
