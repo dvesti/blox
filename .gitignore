@@ -2,10 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-public/
+/public/
 .DS_Store
 Thumbs.db
-node_modules/
+/node_modules/
 R/
 blox.Rproj
 db.json
