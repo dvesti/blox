@@ -101,7 +101,7 @@ theme: freemind #landscape
 
 deploy:
   type: git
-  repo: https://github.com/dvesti/blox # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: https://github.com/dvesti/blox.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: gh-pages
   message: [ривет! Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]
 
