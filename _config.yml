@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://dvesti.github.io/blox #https://bloxeh.netlify.app  #https://dvesti.github.io/blox 
+url: https://bloxeh.netlify.app  #https://dvesti.github.io/blox 
 root:  
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -99,11 +99,11 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: freemind #landscape
 
-deploy:
-  type: git
-  repo: https://github.com/dvesti/blox.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: gh-pages
-  message: [ривет! Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]
+#deploy:
+#  type: git
+#  repo: https://github.com/dvesti/blox.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+#  branch: gh-pages
+#  message: [ривет! Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
