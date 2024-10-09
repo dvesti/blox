@@ -3,16 +3,16 @@ date: "2014-03-16 18:17:16"
 tags: Q&A
 categories: Docs
 description: "Frequently asked questions and my answers."
-feature: /hexo-theme-freemind-blog/images/qna/qna.jpg
+feature: images/qna/qna.jpg
 ---
 
-{% label Q danger %} What does `Freemind` stands for?
+{% label Q danger %} What does `Freemind` stands for? </br> </br>  
 
-{% label A success %} `Freemind` is named after [Pluskid's blog](http://freemind.pluskid.org/). This theme is greatly inspired by his blog layouts and stylesheets.
+{% label A success %} `Freemind` is named after [Pluskid's blog](http://freemind.pluskid.org/). This theme is greatly inspired by his blog layouts and stylesheets.    </br> </br> 
 
-{% label Q danger %} There're already so many themes for Hexo. Why create this one?
+{% label Q danger %} There're already so many themes for Hexo. Why create this one?  </br> </br> 
 
-{% label A success %} In fact I created this theme before I turned to use Hexo. I switched to Hexo about half an year ago, including my theme, since I have already got used to it and don't wanna change it for now.
+{% label A success %} In fact I created this theme before I turned to use Hexo. I switched to Hexo about half an year ago, including my theme, since I have already got used to it and don't wanna change it for now.  
 
 <!-- more -->
 
@@ -20,9 +20,9 @@ feature: /hexo-theme-freemind-blog/images/qna/qna.jpg
 
 {% label A success %} Yes, stylus is cool. But I don't want to wrote my stylesheets again in stylus. So let's just keep them.
 
-{% label Q danger %} I love your theme. How to contribute?
+{% label Q danger %}  I love your theme. How to contribute?  
 
-{% label A success %} Great that you love it. To devote your contribution, you can:
+{% label A success %}  Great that you love it. To devote your contribution, you can:
 
 * Star its [Github project](https://github.com/wzpan/hexo-theme-freemind);
 * Fork this project, make your change, and then send me your pull request;

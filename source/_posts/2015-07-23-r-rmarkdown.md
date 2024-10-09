@@ -50,4 +50,4 @@ pie(
 )
 ```
 
-![](/figure/posts/2015-07-23-r-rmarkdown/pie-1.png)
+![](/images/2015-07-23-r-rmarkdown/pie-1.png)
