@@ -1,20 +1,23 @@
-categories: Categories
-search: Search
-tags: Tags
-tagcloud: "Tag Cloud"
-tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: "Page %d"
-recent_posts: "Recent Posts"
-description: Description
-read_more: "Read More"
-links: Links
+categories: Категоии
+search: Поиск
+tags: Тэги
+tagcloud: "Облако Тэгов"
+tweets: Твиты
+prev: Пред
+next: След
+comment: Комментарии
+archive_a: Архив
+archive_b: "Архив за %s"
+page: "Страница %d"
+recent_posts: "Из последнего"
+description: Описание
+read_more: "Читать дальше"
+links: Ссылки
 top: Pin
 no_comment: "No comments yet. Press the button and go to comment now!"
 go_to_comment: "Go to comment"
-recent_comments: "Recent Comments"
-recommended_posts: "Recommended Posts"
+recent_comments: "Комментарии"
+recommended_posts: "Советуем прочесть"
+
+home: Главная
+
