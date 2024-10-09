@@ -2,3 +2,6 @@
 	path = themes/freemind
 	url = https://github.com/wzpan/hexo-theme-freemind.git
 	
+[submodule "public/blox"]
+	path = public/blox
+	url = https://github.com/dvesti/blox.git
