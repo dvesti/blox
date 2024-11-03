@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
+language: ru #en
 timezone: ''
 
 # URL
@@ -115,3 +115,5 @@ theme: freemind #landscape
   
 module.imports:
   path = "github.com/wzpan/hexo-theme-freemind"  
+  
+ 
