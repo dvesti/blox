@@ -13,4 +13,4 @@ db.json
 .deploy*/
 tmp/
 
-
+/themes/freemind-moi/*.*

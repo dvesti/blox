@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: freemind #landscape
+theme: freemind-moi #freemind #landscape
 
 #deploy:
 #  type: git
@@ -115,5 +115,4 @@ theme: freemind #landscape
   
 #module.imports:
 #  path = "github.com/wzpan/hexo-theme-freemind"  
-  
- 
+
