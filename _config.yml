@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://bloxeh.netlify.app  #https://dvesti.github.io/blox 
-root:  
+url: https://dvesti.github.io/blox/ #https://bloxeh.netlify.app  #https://dvesti.github.io/blox 
+root: /blox/  
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -114,5 +114,10 @@ theme: freemind #landscape
 #  branch: gh-pages
   
 module.imports:
-  path = "github.com/wzpan/hexo-theme-freemind"  
+  path = "themes/freemind" #'github.com/wzpan/hexo-theme-freemind"  
 
+deploy:
+  type: git
+  repo: https://github.com/dvesti/blox
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
