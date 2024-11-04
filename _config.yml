@@ -113,9 +113,9 @@ theme: freemind #landscape
   # example, https://github.com/hexojs/hexojs.github.io
 #  branch: gh-pages
   
-module.imports:
-  path = "themes/freemind" #'github.com/wzpan/hexo-theme-freemind"
-  url = https://github.com/dvesti/blox
+#module.imports:
+#  path = "themes/freemind" #'github.com/wzpan/hexo-theme-freemind"
+#  url = https://github.com/dvesti/blox
 
 deploy:
   type: git
