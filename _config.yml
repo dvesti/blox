@@ -114,7 +114,8 @@ theme: freemind #landscape
 #  branch: gh-pages
   
 module.imports:
-  path = "themes/freemind" #'github.com/wzpan/hexo-theme-freemind"  
+  path = "themes/freemind" #'github.com/wzpan/hexo-theme-freemind"
+  url = url = https://github.com/dvesti/minil
 
 deploy:
   type: git
