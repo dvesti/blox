@@ -115,7 +115,7 @@ theme: freemind #landscape
   
 module.imports:
   path = "themes/freemind" #'github.com/wzpan/hexo-theme-freemind"
-  url = url = https://github.com/dvesti/minil
+  url = https://github.com/dvesti/blox
 
 deploy:
   type: git
