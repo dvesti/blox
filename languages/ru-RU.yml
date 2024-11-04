@@ -3,18 +3,18 @@ search: Поиск
 tags: Тэги
 tagcloud: "Tag Cloud"
 tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: "Page %d"
-recent_posts: "Recent Posts"
-description: Description
-read_more: "Read More"
-links: Links
+prev: Пред
+next: След
+comment: Комментарии
+archive_a: Архив
+archive_b: "Архивы: %s"
+page: "Страница %d"
+recent_posts: "Последнее"
+description: Описание
+read_more: "Читать дальше"
+links: Ссылки
 top: Pin
-no_comment: "No comments yet. Press the button and go to comment now!"
+no_comment: "Комментариев ещё нет. Press the button and go to comment now!"
 go_to_comment: "Go to comment"
 recent_comments: "Recent Comments"
 recommended_posts: "Recommended Posts"

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Архив за 2014/3 | Hexo</title>
+  <title>Archives: 2014/3 | Hexo</title>
   <meta name="author" content="John Doe">
   
   
@@ -232,16 +232,35 @@
 			
   <div id="site_search">
    <div class="form-group">
-    <input type="text" id="local-search-input" name="q" results="0" placeholder="Поиск" class="st-search-input st-default-search-input form-control"/>
+    <input type="text" id="local-search-input" name="q" results="0" placeholder="Search" class="st-search-input st-default-search-input form-control"/>
    </div>  
   <div id="local-search-result"></div>
   </div>
 
 
 		
+			<div class="widget">
+    
+	    <h4 class="dsq-widget-title">Recent Comments</h4>
+		<div id="recent-comments"></div>
+		<script type="text/javascript">
+		    getRecentCommentsList({
+			   type: "github" ? "github" : "github",
+			   user: "dvesti",
+               repo: "blox",
+               client_id: "bf7d4ba11877db88543e",
+               client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb",
+			   count: "5" ? "5" : 5,
+			   recent_comments_target: "#recent-comments"
+			});
+		</script>
+	
+</div>
+
+		
 			
 	<div class="widget">
-		<h4>Категории</h4>
+		<h4>Categories</h4>
 		<ul class="tag_box inline list-unstyled">
 		
 			<li><a href="/categories/Demo/">Demo<span>1</span></a></li>
@@ -258,28 +277,28 @@
 		
 			
 	<div class="widget">
-		<h4>Облако Тэгов</h4>
+		<h4>Tag Cloud</h4>
 		<ul class="tag_box inline list-unstyled">		
 		
+			<li><a href="/tags/%E9%9A%8F%E7%AC%94/">随笔<span>1</span></a></li>
+		
 			<li><a href="/tags/Q-A/">Q&amp;A<span>1</span></a></li>
-		
-			<li><a href="/tags/regression/">regression<span>1</span></a></li>
-		
-			<li><a href="/tags/English/">English<span>1</span></a></li>
 		
 			<li><a href="/tags/plot/">plot<span>1</span></a></li>
 		
 			<li><a href="/tags/Cpp/">Cpp<span>1</span></a></li>
 		
-			<li><a href="/tags/plugins/">plugins<span>1</span></a></li>
-		
 			<li><a href="/tags/R-Markdown/">R Markdown<span>1</span></a></li>
+		
+			<li><a href="/tags/themes/">themes<span>1</span></a></li>
+		
+			<li><a href="/tags/regression/">regression<span>1</span></a></li>
+		
+			<li><a href="/tags/plugins/">plugins<span>1</span></a></li>
 		
 			<li><a href="/tags/highlight/">highlight<span>1</span></a></li>
 		
-			<li><a href="/tags/%E9%9A%8F%E7%AC%94/">随笔<span>1</span></a></li>
-		
-			<li><a href="/tags/themes/">themes<span>1</span></a></li>
+			<li><a href="/tags/English/">English<span>1</span></a></li>
 		
 		 
 		</ul>
@@ -289,7 +308,7 @@
 		
 			
 <div class="widget">
-  <h4>Из последнего</h4>
+  <h4>Recent Posts</h4>
   <ul class="entry list-unstyled">
     
       <li>
@@ -318,7 +337,7 @@
 		
 			
 <div class="widget">
-	<h4>Ссылки</h4>
+	<h4>Links</h4>
 	<ul class="blogroll list-unstyled">
 	
 		<li><i class="fa fa-github"></i><a href="https://github.com/wzpan/freemind/" title="Freemind's Github repository." target="_blank"]);">Freemind</a></li>
@@ -330,13 +349,6 @@
 	</ul>
 </div>
 
-
-		
-			<div class="widget">
-	<div class="rsspart">
-		<a href="/atom.xml" target="_blank" title="rss">RSS</a>
-	</div>
-</div>
 
 		
 	</div> <!-- sidebar -->

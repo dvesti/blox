@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: ru #en
+language: ru-ru #en
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: freemind-moi #freemind #landscape
+theme: freemind #landscape
 
 #deploy:
 #  type: git
@@ -113,6 +113,6 @@ theme: freemind-moi #freemind #landscape
   # example, https://github.com/hexojs/hexojs.github.io
 #  branch: gh-pages
   
-#module.imports:
-#  path = "github.com/wzpan/hexo-theme-freemind"  
+module.imports:
+  path = "github.com/wzpan/hexo-theme-freemind"  
 

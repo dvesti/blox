@@ -146,7 +146,7 @@
 <p>User contributions are welcome! If you want to contribute a color theme, you can <a target="_blank" rel="noopener" href="https://github.com/wzpan/hexo-theme-freemind-blog/tree/dev">fork the dev branch</a> . Write a new theme in LESS and send me a pull request.</p>
 	
 	</div>
-  <a type="button" href="/2016/01/30/color-themes/#more" class="btn btn-default more">Читать дальше</a>
+  <a type="button" href="/2016/01/30/color-themes/#more" class="btn btn-default more">Read More</a>
 </div>
 
 	       
@@ -180,7 +180,7 @@
 <span class="label label-success">A</span> In fact I created this theme before I turned to use Hexo. I switched to Hexo about half an year ago, including my theme, since I have already got used to it and don't wanna change it for now.
 	
 	</div>
-  <a type="button" href="/2014/03/16/qna/#more" class="btn btn-default more">Читать дальше</a>
+  <a type="button" href="/2014/03/16/qna/#more" class="btn btn-default more">Read More</a>
 </div>
 
 	       
@@ -212,7 +212,7 @@
 <p>Then you can use these tag plugins in your blog, as easily as you normally do using hexo tag plugins. </p>
 	
 	</div>
-  <a type="button" href="/2014/03/16/tag-plugins/#more" class="btn btn-default more">Читать дальше</a>
+  <a type="button" href="/2014/03/16/tag-plugins/#more" class="btn btn-default more">Read More</a>
 </div>
 
 	       
@@ -238,16 +238,35 @@
 			
   <div id="site_search">
    <div class="form-group">
-    <input type="text" id="local-search-input" name="q" results="0" placeholder="Поиск" class="st-search-input st-default-search-input form-control"/>
+    <input type="text" id="local-search-input" name="q" results="0" placeholder="Search" class="st-search-input st-default-search-input form-control"/>
    </div>  
   <div id="local-search-result"></div>
   </div>
 
 
 		
+			<div class="widget">
+    
+	    <h4 class="dsq-widget-title">Recent Comments</h4>
+		<div id="recent-comments"></div>
+		<script type="text/javascript">
+		    getRecentCommentsList({
+			   type: "github" ? "github" : "github",
+			   user: "dvesti",
+               repo: "blox",
+               client_id: "bf7d4ba11877db88543e",
+               client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb",
+			   count: "5" ? "5" : 5,
+			   recent_comments_target: "#recent-comments"
+			});
+		</script>
+	
+</div>
+
+		
 			
 	<div class="widget">
-		<h4>Категории</h4>
+		<h4>Categories</h4>
 		<ul class="tag_box inline list-unstyled">
 		
 			<li><a href="/categories/Demo/">Demo<span>1</span></a></li>
@@ -264,28 +283,28 @@
 		
 			
 	<div class="widget">
-		<h4>Облако Тэгов</h4>
+		<h4>Tag Cloud</h4>
 		<ul class="tag_box inline list-unstyled">		
 		
-			<li><a href="/tags/Q-A/">Q&amp;A<span>1</span></a></li>
-		
-			<li><a href="/tags/English/">English<span>1</span></a></li>
-		
-			<li><a href="/tags/highlight/">highlight<span>1</span></a></li>
-		
-			<li><a href="/tags/R-Markdown/">R Markdown<span>1</span></a></li>
+			<li><a href="/tags/regression/">regression<span>1</span></a></li>
 		
 			<li><a href="/tags/themes/">themes<span>1</span></a></li>
 		
+			<li><a href="/tags/Q-A/">Q&amp;A<span>1</span></a></li>
+		
+			<li><a href="/tags/%E9%9A%8F%E7%AC%94/">随笔<span>1</span></a></li>
+		
+			<li><a href="/tags/R-Markdown/">R Markdown<span>1</span></a></li>
+		
 			<li><a href="/tags/plugins/">plugins<span>1</span></a></li>
+		
+			<li><a href="/tags/English/">English<span>1</span></a></li>
 		
 			<li><a href="/tags/Cpp/">Cpp<span>1</span></a></li>
 		
 			<li><a href="/tags/plot/">plot<span>1</span></a></li>
 		
-			<li><a href="/tags/%E9%9A%8F%E7%AC%94/">随笔<span>1</span></a></li>
-		
-			<li><a href="/tags/regression/">regression<span>1</span></a></li>
+			<li><a href="/tags/highlight/">highlight<span>1</span></a></li>
 		
 		 
 		</ul>
@@ -295,7 +314,7 @@
 		
 			
 <div class="widget">
-  <h4>Из последнего</h4>
+  <h4>Recent Posts</h4>
   <ul class="entry list-unstyled">
     
       <li>
@@ -324,7 +343,7 @@
 		
 			
 <div class="widget">
-	<h4>Ссылки</h4>
+	<h4>Links</h4>
 	<ul class="blogroll list-unstyled">
 	
 		<li><i class="fa fa-github"></i><a href="https://github.com/wzpan/freemind/" title="Freemind's Github repository." target="_blank"]);">Freemind</a></li>
@@ -336,13 +355,6 @@
 	</ul>
 </div>
 
-
-		
-			<div class="widget">
-	<div class="rsspart">
-		<a href="/atom.xml" target="_blank" title="rss">RSS</a>
-	</div>
-</div>
 
 		
 	</div> <!-- sidebar -->
