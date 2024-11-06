@@ -1,6 +1,5 @@
----
-title: "Tag Plugins"
-date: "2014-03-16 10:17:16"
+title: "Tag Plugins（中文）"
+date: "2014-03-16 10:10:16"
 tags: plugins
 categories: Docs
 description: "Introduce tag plugins in freemind."
@@ -9,23 +8,23 @@ cover: https://dvesti.github.io/blox/images/tag-plugins/plugins.jpg
 toc: true
 ---
 
-The freemind theme offers several new tag plugins, so as to fully take advantages of Bootstrap.
+Freemind 主题提供了丰富的 tag plugins，以充分利用 Bootstrap 的威力。
 
-To use these tag plugins, you need to install [hexo-tag-bootstrap](https://github.com/wzpan/hexo-tag-bootstrap) first. In your blog root folder, execute the following command:
+在使用这些 tag plugins 之前，你需要先安装 [hexo-tag-bootstrap](https://github.com/wzpan/hexo-tag-bootstrap) 。在你的 Hexo 博客目录，执行下列命令：
 
 ```
 $ npm install hexo-tag-bootstrap --save
 ```
 
-Then you can use these tag plugins in your blog, as easily as you normally do using hexo tag plugins. 
+然后就可以像使用其他 hexo tag plugins 一样使用这些 Bootstrap tag plugins 了。
 
 <!-- more -->
 
-## Text Color ##
+## 文本颜色 ##
 
-Convey meaning through color with a handful of emphasis utility classes. These may also be applied to links and will darken on hover just like our default link styles.
+插入一段文本，并用特殊的颜色高亮它。
 
-### Syntax ###
+### 语法 ###
 
 ```
 {% textcolor [style] %}
@@ -33,7 +32,7 @@ Convey meaning through color with a handful of emphasis utility classes. These m
 {% endtextcolor %}
 ```
 
-### Examples ###
+### 示例 ###
 
 ```
 {% textcolor muted %}
@@ -61,7 +60,7 @@ Donec ullamcorper nulla non metus auctor fringilla.
 {% endtextcolor %}
 ```
 
-### Results ###
+### 结果 ###
 
 {% textcolor muted %}Fusce dapibus, tellus ac cursus commodo, tortor mauris nibh.{% endtextcolor %}
 
@@ -75,17 +74,17 @@ Donec ullamcorper nulla non metus auctor fringilla.
 
 {% textcolor danger %}Donec ullamcorper nulla non metus auctor fringilla.{% endtextcolor %}
 
-## Buttons ##
+## 按钮（Buttons） ##
 
-Inserts a button with target links, text and specified color.
+插入一个按钮，按钮可以带有链接、文本，并可以指定样式。
 
-### Syntax ###
+### 语法 ###
 
 ```
 {% btn url text [style] %}
 ```
 
-### Examples ###
+### 示例 ###
 
 ```
 {% btn http://hahack.com hahack %}
@@ -101,7 +100,7 @@ Inserts a button with target links, text and specified color.
 {% btn http://hahack.com hahack info %}
 ```
 
-### Results ###
+### 结果 ###
 
 {% btn http://hahack.com hahack %}
 
@@ -115,17 +114,17 @@ Inserts a button with target links, text and specified color.
 
 {% btn http://hahack.com hahack info %}
 
-## Labels ##
+## 标签（Labels） ##
 
-Inserts a label with text and specified color.
+插入一个标签，并为其指定文本和样式。
 
-### Syntax ###
+### 语法 ###
 
 ```
 {% label text [style] %}
 ```
 
-### Examples ###
+### 示例 ###
 
 ```
 {% label default %}
@@ -141,7 +140,7 @@ Inserts a label with text and specified color.
 {% label info info %}
 ```
 
-### Results ###
+### 结果 ###
 
 {% label default %}
 
@@ -155,32 +154,31 @@ Inserts a label with text and specified color.
 
 {% label info info %}
 
-## Badges ##
+## 徽章（Badges） ##
 
-Inserts a badge with text.
+插入一个徽章，并为其指定文本。
 
-
-### Syntax ###
+### 语法 ###
 
 ```
 {% badge text %}
 ```
 
-### Examples ###
+### 示例 ###
 
 ```
 {% badge 42 %}
 ```
 
-### Results ###
+### 结果 ###
 
 {% badge 42 %}
 
-## Alerts ##
+## 警报（Alerts） ##
 
-Inserts alert messages with text and specified color.
+插入一段警报文本信息，并为其指定样式。
 
-### Syntax ###
+### 语法 ###
 
 ```
 {% alert [style] %}
@@ -188,7 +186,7 @@ Inserts alert messages with text and specified color.
 {% endalert %}
 ```
 
-### Examples ###
+### 示例 ###
 
 ```
 {% alert warning %}
@@ -208,7 +206,7 @@ This alert needs your attention, but it's not super important.
 {% endalert %}
 ```
 
-### Results ###
+### 结果 ###
 
 {% alert warning %}
 Best check yo self, you're not looking too good.

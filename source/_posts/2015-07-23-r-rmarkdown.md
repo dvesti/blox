@@ -35,6 +35,8 @@ fit
 ##      -17.58         3.93
 ```
 
+<!-- more -->
+
 # Including Plots
 
 You can also embed R plots:

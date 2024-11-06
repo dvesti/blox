@@ -7,13 +7,13 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: ru-ru #en
+author: Dvesti
+language: ru
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://dvesti.github.io/blox/ #https://bloxeh.netlify.app  #https://dvesti.github.io/blox 
+url: https://github.com/dvesti/blox/ #https://bloxeh.netlify.app  #https://dvesti.github.io/blox 
 root: /blox/  
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -62,7 +62,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 4
   order_by: -date
 
 # Category & Tag
@@ -115,10 +115,13 @@ theme: freemind #landscape
   
 #module.imports:
 #  path = "themes/freemind" #'github.com/wzpan/hexo-theme-freemind"
-#  url = https://github.com/dvesti/blox
+#  url = https://github.com/wzpan/hexo-theme-freemind #github.com/dvesti/blox
 
 deploy:
   type: git
   repo: https://github.com/dvesti/blox
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+#  message: [Site updated: {{ now('YYYY-MM-DD HH:mm') }}]  
+
+feature: https://github.com/dvesti/blox/favicon.png

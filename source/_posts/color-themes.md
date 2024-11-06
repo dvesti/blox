@@ -5,6 +5,7 @@ categories: Docs
 description: "A list of all the official color themes."
 shadow: true
 feature: https://dvesti.github.io/blox/images/color-themes/color-themes.png
+cover: https://dvesti.github.io/blox/images/color-themes/color-themes.png
 toc: true
 ---
 
